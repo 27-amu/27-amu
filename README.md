@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @27-amu
-- 👀 I’m interested in ethical hacking
+- 👋 Hi, I’m @AMIT 
+- 👀 I’m interested in Agentic AI
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to learn more
 - 📫 contact me on discord
